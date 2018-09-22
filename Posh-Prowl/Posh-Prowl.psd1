@@ -71,7 +71,7 @@ PrivateData = @{
     PSData = @{
 
         # Tags applied to this module. These help with module discovery in online galleries.
-        Tags = 'prowl','push','notification','push-notification'
+        Tags = 'prowl','prowl-notifications','prowlapp','push','push-notifications'
 
         # A URL to the license for this module.
         LicenseUri = 'https://github.com/rmbolger/Posh-Prowl/blob/master/LICENSE'
